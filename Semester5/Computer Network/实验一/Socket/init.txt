@@ -1,0 +1,3 @@
+C:/Users/25987/source/repos/computer_net/Socket/dir/
+5050
+10.12.55.190

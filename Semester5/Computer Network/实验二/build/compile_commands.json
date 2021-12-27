@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/include  -g   -std=c++11 -o CMakeFiles/stop_wait.dir/src/GBNRdtReceiver.cpp.o -c /home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/GBNRdtReceiver.cpp",
+  "file": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/GBNRdtReceiver.cpp"
+},
+{
+  "directory": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/include  -g   -std=c++11 -o CMakeFiles/stop_wait.dir/src/GBNRdtSender.cpp.o -c /home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/GBNRdtSender.cpp",
+  "file": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/GBNRdtSender.cpp"
+},
+{
+  "directory": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/include  -g   -std=c++11 -o CMakeFiles/stop_wait.dir/src/SRRdtReceiver.cpp.o -c /home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/SRRdtReceiver.cpp",
+  "file": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/SRRdtReceiver.cpp"
+},
+{
+  "directory": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/include  -g   -std=c++11 -o CMakeFiles/stop_wait.dir/src/SRRdtSender.cpp.o -c /home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/SRRdtSender.cpp",
+  "file": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/SRRdtSender.cpp"
+},
+{
+  "directory": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/include  -g   -std=c++11 -o CMakeFiles/stop_wait.dir/src/StopWait.cpp.o -c /home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/StopWait.cpp",
+  "file": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/StopWait.cpp"
+},
+{
+  "directory": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/include  -g   -std=c++11 -o CMakeFiles/stop_wait.dir/src/StopWaitRdtReceiver.cpp.o -c /home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/StopWaitRdtReceiver.cpp",
+  "file": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/StopWaitRdtReceiver.cpp"
+},
+{
+  "directory": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/include  -g   -std=c++11 -o CMakeFiles/stop_wait.dir/src/StopWaitRdtSender.cpp.o -c /home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/StopWaitRdtSender.cpp",
+  "file": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/StopWaitRdtSender.cpp"
+},
+{
+  "directory": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/include  -g   -std=c++11 -o CMakeFiles/stop_wait.dir/src/TCPRdtReceiver.cpp.o -c /home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/TCPRdtReceiver.cpp",
+  "file": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/TCPRdtReceiver.cpp"
+},
+{
+  "directory": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/include  -g   -std=c++11 -o CMakeFiles/stop_wait.dir/src/TCPRdtSender.cpp.o -c /home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/TCPRdtSender.cpp",
+  "file": "/home/cavalry/C/Ubuntu_18.04.3_64_Desktop/StopWait/src/TCPRdtSender.cpp"
+}
+]
